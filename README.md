@@ -41,7 +41,7 @@ $ git push
 # To push your work to your remote repository
 ```
 Finally, go to your repository in browser and you can see all of your updated code in your repo. Now click on `compare and pull requests`.
-Then add a title and description to your pull request that explains your precious effort.
+Then add a title and description to your pull request that explains your precious effort so I would change my files.
 
 ## Help Contributing Guides :crown:
 I would love to have `new features` in this project.
